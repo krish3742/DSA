@@ -10,6 +10,6 @@ function bubbleSort(arr) {
     }
 }
 
-let arr = [7, 8, 3, 1, 2];
+let arr = [7, 2, 3, 1, 8, -1];
 bubbleSort(arr);
 console.log(arr);
